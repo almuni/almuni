@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **CCNA**
 
-- 💬 Ask me about **Python, C++, Computer Vision**
+- 💬 I can speak four languages **English, Arabic, Turkish, Python :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
