@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Almuntadhar</h1>
 <h3 align="center">I'm a programmer that wants to be fullstack life liver.</h3>
-<img align="right" alt="Coding" width="400" src="[https://external-preview.redd.it/FuqGGUPh2r8D5y9joV5UzJLme-Q5KVUq-SQYaJrVOvE.gif?](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)">
+
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl6dHg3M3FrN3JxZmZwemYwczFnM3B1bXlrY3JlMTY0NGtubmRqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif">
 - 🔭 I’m currently working on **Transmitting encrypted radio waves**
 
 - 🌱 I’m currently learning **CCNA**
