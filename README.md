@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Almuntadhar</h1>
-<h3 align="center">I'm a programmer that wants to be fullstack life liver.</h3>
+<h1 align="center">Hi 👋, I'm Almuntadhar,a fullstack enginner. </h1>
+<h3 align="center">My Expertise Lies in Autonomous Vehicles</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl6dHg3M3FrN3JxZmZwemYwczFnM3B1bXlrY3JlMTY0NGtubmRqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif">
-- 🔭 I’m currently working on **Transmitting encrypted radio waves**
-
-- 🌱 I’m currently learning **CCNA**
 
 - 💬 I can speak four languages **English, Arabic, Turkish, Python :)**
 
