@@ -10,7 +10,7 @@
 -  Using SLAM algorithms i develope obstacle avoidance systems for different applications.
 
 <p align="left">
-<a href="https://www.linkedin.com/in/almuntadhar-al-bandawi-892279208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="almuntadhar-albandawi-892279208" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/almuntadhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="almuntadhar-albandawi-892279208" height="30" width="40" /></a>
 </p>
 
 
